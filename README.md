@@ -37,3 +37,14 @@ npm start
 npm start
 
 ```
+
+
+---
+
+## Screenshots
+
+![im](/images/img1.JPG)
+![im](/images/img2.JPG)
+![im](/images/img3.JPG)
+![im](/images/img4.JPG)
+![im](/images/img5.JPG)
